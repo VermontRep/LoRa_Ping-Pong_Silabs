@@ -8,8 +8,8 @@ The following folders have the **LoRa P2P** Radio API with the needed files to a
 ## Folders
 
 Here the folders and the overview of their contents:
--	[port_ping_pong_board](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/To_Copy/port_ping_pong_board) - files that interface the Radio API and the Silicon Labs project files
--	[vendor](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/To_Copy/vendor) - only radio folders and files from the original [LoRaWAN stack repository](https://github.com/Lora-net/LoRaMac-node/tree/master/src), frozen to release 4.4.7.
+-	[port_ping_pong_board](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/tree/main/To_Copy/port_ping_pong_board) - files that interface the Radio API and the Silicon Labs project files
+-	[vendor](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/tree/main/To_Copy/vendor) - only radio folders and files from the original [LoRaWAN stack repository](https://github.com/Lora-net/LoRaMac-node/tree/master/src), frozen to release 4.4.7.
 
 ## Files
 
