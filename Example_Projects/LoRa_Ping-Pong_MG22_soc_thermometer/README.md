@@ -1,14 +1,14 @@
 
 # LoRa Ping-Pong for Silabs Family 2 - Example Projects
 
-## LoRa_Ping-Pong_BG22_soc_thermometer
+## LoRa_Ping-Pong_MG22_soc_thermometer
 
-Project File ready to use: `LoRa_Ping-Pong_BG22_soc_thermometer.sls`
+Project File ready to use: `LoRa_Ping-Pong_MG22_soc_thermometer.sls`
 
 Summary:
--	Silabs MCU Board: **BG22-BRD4184A** together with the **BRD4001A base board**
+-	Silabs MCU Board: **BG22-BRD4182A** together with the **BRD4001A base board**
 -	Semtech mbed shield: **SX1262MB2xAS**
--	Base Project: **Empty C Project**
+-	Base Project: **Bluetooth - Soc Thermometer**
 -	Added Functions: *LoRa Radio API + print functions*
 
 ## Files to Replace in the Basic Project when creating it

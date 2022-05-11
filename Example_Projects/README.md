@@ -9,6 +9,16 @@ In the same directory, the instructions to create it from the basic project and 
 ## List of Examples
 
 Here a list of examples that can be downloaded to be imported and generated ready to use:
+-	[LoRa_Ping-Pong_BG22_soc_thermometer](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/tree/main/Example_Projects/LoRa_Ping-Pong_BG22_soc_thermometer)
+	-	Silabs MCU Board: **BG22-BRD4184A** together with the **BRD4001A base board**
+	-	Semtech mbed shield: **SX1262MB2xAS**
+	-	Base Project: **Bluetooth - SoC Thermometer**
+	-	Added Functions: *LoRa Radio API*
+-	[LoRa_Ping-Pong_MG22_blink_baremetal](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/tree/main/Example_Projects/LoRa_Ping-Pong_MG22_soc_thermometer)
+	-	Silabs MCU Board: **BG22-BRD4182A** together with the **BRD4001A base board**
+	-	Semtech mbed shield: **SX1262MB2xAS**
+	-	Base Project: **Bluetooth - Soc Thermometer**
+	-	Added Functions: *LoRa Radio API + print functions*
 -	[LoRa_Ping-Pong_PG22_blink_baremetal](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/tree/main/Example_Projects/LoRa_Ping-Pong_PG22_blink_baremetal)
 	-	Silabs MCU Board: **PG22-DK2503A**
 	-	Semtech mbed shield: **SX1262MB2xAS**
@@ -19,8 +29,3 @@ Here a list of examples that can be downloaded to be imported and generated read
 	-	Semtech mbed shield: **SX1262MB2xAS**
 	-	Base Project: **Platform - Blink Baremetal**
 	-	Added Functions: *LoRa Radio API + Interrupt + Si70xx (RH&T sensor) + print functions*
--	[LoRa_Ping-Pong_BG22_soc_thermometer](https://github.com/VermontRep/LoRa_Ping-Pong_Silabs/tree/main/Example_Projects/LoRa_Ping-Pong_BG22_soc_thermometer)
-	-	Silabs MCU Board: **BG22-BRD4184A**
-	-	Semtech mbed shield: **SX1262MB2xAS**
-	-	Base Project: **Bluetooth - SoC Thermometer**
-	-	Added Functions: *LoRa Radio API*
